@@ -1,5 +1,8 @@
-*.pptx
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .idea/
+Day_1/**/*.pptx
+Day_2/**/*.pptx
+Day_3/**/*.pptx
+Day_4/**/*.pptx
